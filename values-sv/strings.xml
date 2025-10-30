@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">AutoSwipe Right</string>
+    <string name="facebook_app_name">Tinder Autoswipe</string>
+    <string name="magic_assistant">**AutoSwipe**</string>
+    <string name="service_summary" translatable="false">The app uses the click functionality of the
+        service</string>
+
+    <string name="service_description">Slå PÅ reglaget uppe till höger. Appen använder endast
+        tjänstens klick-funktion för att automatisera swipes i Tinder.\n\nObs:\nDu kan få en varning
+        när denna skärm visas. Du kan ignorera den, då AutoSwipe inte samlar in någon personlig
+        information om dig.</string>
+
+    <string name="enable_accessibility">Aktivera tillgänglighet</string>
+    <string name="accessibility_tutorial_message">För att aktivera, tillåt AutoSwipe på kommande
+        skärmar.</string>
+    <string name="not_now">INTE NU</string>
+    <string name="enable">AKTIVERA</string>
+    <string name="accessibility_app_name" translatable="false">**AutoSwipe**</string>
+
+    <string name="nav_profile">Mitt konto</string>
+    <string name="nav_add_recipient">Lägg till mottagare</string>
+    <string name="nav_rate_app">Betygsätt appen</string>
+    <string name="nav_help_feedback">Hjälp &amp; feedback</string>
+
+    <string name="icon_hint">AutoSwipe!</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Avbryt</string>
+
+    <string name="autoswipe_plus" translatable="false">
+        <b>Get Autoswipe Plus</b>
+        <small>\n *Unlimited swipes.\n *No ads.</small>
+    </string>
+
+    <string name="wait_to_load">Vänta tills videon har laddats</string>
+    <string name="min">MIN</string>
+    <string name="max">MAX</string>
+
+    <string name="facebook_app_id" translatable="false">526252461050957</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb526252461050957</string>
+
+    <string name="tinder_dialog_title">Hoppsan!</string>
+    <string name="tinder_dialog_message">Det verkar som att Tinder inte är installerat. Låt oss
+        omdirigera dig.</string>
+
+    <string name="dialog_title">Appbehörigheter</string>
+    <string name="swipes_left">Swipes kvar :</string>
+    <string name="click_to_stop">Tryck för att stoppa!</string>
+    <string name="autoswipe">Autoswipe!</string>
+    <string name="premium">PREMIUMANVÄNDARE</string>
+    <string name="dialog_message">Aktivera behörigheterna på följande skärmar för att appen ska
+        fungera.</string>
+
+    <string name="control_speed">Svephastighet</string>
+</resources>
